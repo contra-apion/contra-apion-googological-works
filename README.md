@@ -1,2 +1,2 @@
-# contra-apion-googological-works
-blog-post mirror from googology wiki because googology wiki needs non-blog sources
+# contra apion googological works
+blogpost mirror from googology wiki because googology wiki needs non-blog sources
